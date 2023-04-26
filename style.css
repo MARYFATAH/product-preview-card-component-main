@@ -1,0 +1,46 @@
+#font{
+    font-family: 'PT Serif', serif;
+    font-weight: 700;
+    margin-bottom: 20px;
+
+}
+body{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    background-color:  hsl(30, 38%, 92%) !important;
+    color: gray;
+}
+ p{
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    color: gray;
+    font: 100;
+ }
+
+ .button{
+    background-color:  hsl(158, 36%, 37%) !important;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: 250px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+ }
+ .style{
+    font-family: 'PT Serif', serif;
+    font-weight: 700;
+    font-size: 30px;
+    color:  hsl(158, 36%, 37%);
+    
+ }
+ .price{
+    text-decoration: line-through;
+ }
